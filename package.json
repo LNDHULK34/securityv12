@@ -2,9 +2,9 @@
   "name": "Robot",
   "version": "2.1.0",
   "description": "Robot",
-  "main": "Naqeb.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node Naqeb.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "discord.js": "^12.4.0",
